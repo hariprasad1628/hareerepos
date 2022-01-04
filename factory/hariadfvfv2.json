@@ -1,0 +1,9 @@
+{
+	"name": "hariadfvfv2",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cca4a879-545a-43be-97b9-177f2d12b5a6",
+		"tenantId": "d06ff36f-5f59-4341-ae40-e80b3280c416"
+	}
+}
