@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "hariadfvfv2"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
